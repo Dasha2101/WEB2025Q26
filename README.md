@@ -8,7 +8,7 @@
 * Разрешается использование препроцессоров CSS (SCSS) по желанию
 
 ## Требования к репозиторию
-* Все лабораторные работы сдаются в виде ссылки на откртый репозиторий
+* Все лабораторные работы сдаются в виде ссылки на открытый репозиторий
 * Необходимо предоставить deploy проекта любым удобным для вас способом
 * История коммитов должна отражать процесс разработки вашего проекта
 
@@ -52,3 +52,22 @@
 * Использование запрещённых фреймворков - работа оценивается в 0 баллов. Рекомендуется использовать только чистый HTML, CSS и JavaScript.
 * Отсутствие истории разработки проекта - работа оценивается в 0 баллов.
 * Сдача работы после дедлайна без уважительной причины - снижается 50% от полученных баллов.
+
+## Полезные ссылки
+### CSS
+* [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Grid](http://css-tricks.com/snippets/css/complete-guide-grid/)
+* [Sass Basics](https://sass-lang.com/guide/)
+* [Media queries](https://itchief.ru/html-and-css/media-queries)
+### HTML
+* [Form](https://ru.hexlet.io/courses/css-content/lessons/forms/theory_unit)
+* [Semantics](https://htmlacademy.ru/blog/html/semantics)
+### DOM
+* [DOMtree](https://learn.javascript.ru/dom-nodes)
+* [DOMnavigation](https://learn.javascript.ru/dom-navigation)
+* [DOMSearching](https://learn.javascript.ru/searching-elements-dom)
+### Javascript
+* [Array](https://learn.javascript.ru/array-methods)
+* [Object](https://learn.javascript.ru/object)
+* [JSON](https://learn.javascript.ru/json)
+* [LocalStorage](https://learn.javascript.ru/localstorage)
