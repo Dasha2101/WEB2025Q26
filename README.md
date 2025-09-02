@@ -66,7 +66,7 @@
 * [DOMtree](https://learn.javascript.ru/dom-nodes)
 * [DOMnavigation](https://learn.javascript.ru/dom-navigation)
 * [DOMSearching](https://learn.javascript.ru/searching-elements-dom)
-### Javascript
+### JavaScript
 * [Array](https://learn.javascript.ru/array-methods)
 * [Object](https://learn.javascript.ru/object)
 * [JSON](https://learn.javascript.ru/json)
